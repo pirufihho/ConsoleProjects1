@@ -4,3 +4,9 @@ C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
 C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Usuario\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Projects\ConsoleProjects1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Projects\ConsoleProjects1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Projects\ConsoleProjects1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Projects\ConsoleProjects1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Projects\ConsoleProjects1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Projects\ConsoleProjects1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
